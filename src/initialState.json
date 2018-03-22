@@ -1,0 +1,28 @@
+{
+	"allSkiDays": [
+		{
+			"resort": "Bansko",
+			"date": "2017-12-7",
+			"powder": true,
+			"backcountry": false
+		},
+		{
+			"resort": "Borovets",
+			"date": "2017-12-8",
+			"powder": false,
+			"backcountry": false
+		},
+		{
+			"resort": "Pamporovo",
+			"date": "2017-12-9",
+			"powder": false,
+			"backcountry": true
+		}
+	],
+	"goal": 10,
+	"errors": [],
+	"resortNames": {
+		"fetching": false,
+		"suggestions": ["Bansko", "Borovets", "Chepelare", "Pamporovo", "Vitosha"]
+	}
+}

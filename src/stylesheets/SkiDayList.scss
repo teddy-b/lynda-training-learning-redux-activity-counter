@@ -1,0 +1,27 @@
+@import 'globals';
+
+div.ski-day-list {
+  height: calc(100% - 13em);
+  overflow-y: scroll;
+
+  table {
+    width: 100%;
+    background-color: $white-transparent;
+    font-family: $verdana;
+    font-size: 1.5em;
+    text-align: center;
+
+    caption {
+      background-color: $white-transparent;
+      color: $brown;
+    }
+
+    td {
+      padding: .2em;
+    }
+
+    a {
+      margin: 15px;
+    }
+  }
+}
